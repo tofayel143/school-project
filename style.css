@@ -1,0 +1,51 @@
+.sec1{
+    background-color: #f0fff0;
+    padding-bottom: 50px;
+}
+.sec1 .baner-section{
+    margin-top: 55px;
+}
+.nav{
+    word-spacing: 10px !important;
+}
+.nav-link{
+    color: black;
+}
+.container h1{
+    font-weight: bold;
+    font-size: 45px !important;
+    margin-top: 5px !important;
+    line-height: 60px;
+}
+.container p{
+    line-height: 35px;
+}
+.btn{
+    background-color: #21b573;
+    color: white;
+    padding: 8px 25px;
+}
+.sec1 .baner-section img{
+    height: 350px !important;
+    margin-left: 80px;
+}
+.text-center .book{
+    background-color: #f0fff0;
+    width: 270px;
+    height: 270px;
+    left: 135px;
+    top: 618px;
+}
+.text-center .book:hover{
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.39);
+}
+.footer-sec{
+    background-color: #282531;
+}
+ul :first-child{
+    text-decoration: underline;
+}
+li{
+    list-style: none;
+}
